@@ -1,9 +1,26 @@
 .nav-wrapper {
-    background-color: #ee6e73;
+    background-color: #2979ff;
     color: white;
-    width: 100%;
-    height: 56px;
-    display: block;
-    box-sizing: inherit;
-    
-}
+  }
+
+ .myName {
+     /* font-family: 'Pacifico', cursive; */
+     font-family: 'Acme', sans-serif;
+     font-size: 35px;
+     margin-left: 25px;
+ } 
+
+
+ .header {
+     color: #2979ff;
+ }
+
+ .myPic {
+    border-radius: 50%;
+    float: left;
+    width: 200px;
+    height: auto;
+    shape-outside: circle();
+    margin: 15px;
+   
+ }
