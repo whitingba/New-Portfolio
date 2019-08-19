@@ -31,12 +31,26 @@
     padding: 5px;
     border-radius: 5px;
     font-size: 25px;
+    justify-content: center;
+    align-items: center;
     
 }
 
 .resume {
     margin-left: 10px;
-    
+    justify-content: center;
+    align-items: center;
 }
 
+
+
+
+
+
+#submit {
+    
+    background-color:#2979ff;
+    color: white;
+  
+}
 
