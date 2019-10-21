@@ -44,9 +44,6 @@
 
 
 
-
-
-
 #submit {
     
     background-color:#2979ff;
@@ -54,4 +51,7 @@
     margin: 0px 0px 20px 20px;
 }
 
-
+.burger {
+   width: 25px;
+   
+}
